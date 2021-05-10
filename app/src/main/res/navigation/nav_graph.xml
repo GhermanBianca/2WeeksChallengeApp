@@ -9,7 +9,11 @@
         android:id="@+id/challengeFragment"
         android:name="com.example.workouthome.fragments.ChallengeFragment"
         android:label="@string/challenges"
-        tools:layout="@layout/fragment_challenge" />
+        tools:layout="@layout/fragment_challenge" >
+        <action
+            android:id="@+id/action_challengeFragment_to_dayChallengeFragment"
+            app:destination="@id/dayChallengeFragment" />
+    </fragment>
     <fragment
         android:id="@+id/aboutMeFragment"
         android:name="com.example.workouthome.fragments.AboutMeFragment"
@@ -94,4 +98,9 @@
         android:name="com.example.workouthome.fragments.SettingsFragment"
         android:label="@string/settings"
         tools:layout="@layout/fragment_settings" />
+    <fragment
+        android:id="@+id/dayChallengeFragment"
+        android:name="com.example.workouthome.fragments.DayChallengeFragment"
+        android:label="fragment_day_challenge"
+        tools:layout="@layout/fragment_day_challenge" />
 </navigation>

@@ -48,6 +48,18 @@ class ChallengeFragment : Fragment(R.layout.fragment_challenge) {
 
         challengeArrayList.add(ChallengeItem("Ziua 1 - Fesieri și Abdomen", R.drawable.fesieri))
         challengeArrayList.add(ChallengeItem("Ziua 2 - Cardio", R.drawable.fesieri))
+        challengeArrayList.add(ChallengeItem("Ziua 3 - Cardio", R.drawable.fesieri))
+        challengeArrayList.add(ChallengeItem("Ziua 4 - Cardio", R.drawable.fesieri))
+        challengeArrayList.add(ChallengeItem("Ziua 5 - Cardio", R.drawable.fesieri))
+        challengeArrayList.add(ChallengeItem("Ziua 6 - Cardio", R.drawable.fesieri))
+        challengeArrayList.add(ChallengeItem("Ziua 7 - Cardio", R.drawable.fesieri))
+        challengeArrayList.add(ChallengeItem("Ziua 8 - Cardio", R.drawable.fesieri))
+        challengeArrayList.add(ChallengeItem("Ziua 9 - Cardio", R.drawable.fesieri))
+        challengeArrayList.add(ChallengeItem("Ziua 10 - Cardio", R.drawable.fesieri))
+        challengeArrayList.add(ChallengeItem("Ziua 11 - Cardio", R.drawable.fesieri))
+        challengeArrayList.add(ChallengeItem("Ziua 12 - Cardio", R.drawable.fesieri))
+        challengeArrayList.add(ChallengeItem("Ziua 13 - Cardio", R.drawable.fesieri))
+        challengeArrayList.add(ChallengeItem("Ziua 14 - Cardio", R.drawable.fesieri))
 
         return challengeArrayList
     }

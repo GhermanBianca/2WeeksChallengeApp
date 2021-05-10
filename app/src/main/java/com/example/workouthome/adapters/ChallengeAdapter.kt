@@ -6,6 +6,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.TextView
 import androidx.fragment.app.FragmentActivity
+import androidx.navigation.Navigation
 import androidx.recyclerview.widget.RecyclerView
 import com.example.workouthome.R
 import com.example.workouthome.modules.ChallengeItem
@@ -27,6 +28,10 @@ class ChallengeAdapter(var activity: FragmentActivity?, var arrayList: ArrayList
 
         viewHolder.descriptionChallenge.text = challengeItem.description_challenge
         viewHolder.iconsChallenge.setImageResource(challengeItem.icons_challenge)
+
+        viewHolder.itemView.setOnClickListener(
+            Navigation.createNavigateOnClickListener(R.id.action_challengeFragment_to_dayChallengeFragment)
+        )
     }
 
     override fun getItemCount(): Int {
