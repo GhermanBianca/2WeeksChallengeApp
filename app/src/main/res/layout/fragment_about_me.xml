@@ -38,6 +38,7 @@
         android:foreground="?attr/selectableItemBackground"
         android:gravity="center"
         android:text="@string/update"
+        android:textAllCaps="true"
         android:textColor="@color/white"
         android:textSize="@dimen/size18"
         app:layout_constraintEnd_toEndOf="parent"

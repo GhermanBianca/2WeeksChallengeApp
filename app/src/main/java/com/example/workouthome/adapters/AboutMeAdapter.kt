@@ -54,7 +54,7 @@ class AboutMeAdapter(private val dataSet: List<String>, private val activity: Ac
                         0, 0, 0, 0
                     )
                     val dialogView: View = inflater.inflate(R.layout.about_me_height_dialog, null)
-                    d.setTitle(activity.getString(R.string.height_cap))
+                    d.setTitle((activity.getString((R.string.height)).toUpperCase(Locale.ROOT)).toUpperCase(Locale.ROOT))
                     d.setView(dialogView)
                     val numberPicker =
                         dialogView.findViewById<View>(R.id.numberPickerHeight) as NumberPicker
@@ -62,10 +62,10 @@ class AboutMeAdapter(private val dataSet: List<String>, private val activity: Ac
                     numberPicker.minValue = MIN21
                     numberPicker.setOnValueChangedListener { _, _, _ ->
                     }
-                    d.setPositiveButton(activity.getString(R.string.save_cap)) { _, _ ->
-                        aboutMeValue.text = numberPicker.value.toString() + " " + activity.getString(R.string.cm)
+                    d.setPositiveButton(activity.getString((R.string.save)).toUpperCase(Locale.ROOT)) { _, _ ->
+                        aboutMeValue.text = numberPicker.value.toString() + " " + (activity.getString(R.string.cm)).toUpperCase(Locale.ROOT)
                     }
-                    d.setNegativeButton(activity.getString(R.string.cancel_cap)) { _, _ ->
+                    d.setNegativeButton((activity.getString((R.string.cancel)).toUpperCase(Locale.ROOT)).toUpperCase(Locale.ROOT)) { _, _ ->
                         aboutMeValue.setCompoundDrawablesWithIntrinsicBounds(
                             0, 0, 0, 0
                         )
@@ -78,7 +78,7 @@ class AboutMeAdapter(private val dataSet: List<String>, private val activity: Ac
                     aboutMeValue.setCompoundDrawablesWithIntrinsicBounds(
                         0, 0, 0, 0
                     )
-                    d.setTitle(activity.getString(R.string.weight_cap))
+                    d.setTitle(activity.getString(R.string.weight))
                     val dialogView: View = inflater.inflate(R.layout.about_me_weight_dialog, null)
                     d.setView(dialogView)
                     val firstNumberPicker =
@@ -93,11 +93,17 @@ class AboutMeAdapter(private val dataSet: List<String>, private val activity: Ac
                     secondNumberPicker.minValue = 0
                     secondNumberPicker.setOnValueChangedListener { _, _, _ ->
                     }
-                    d.setPositiveButton(activity.getString(R.string.save_cap)) { _, _ ->
+                    d.setPositiveButton(
+                        activity.getString((R.string.save)).toUpperCase(Locale.ROOT)
+                    ) { _, _ ->
                         aboutMeValue.text =
-                            firstNumberPicker.value.toString() + "." + secondNumberPicker.value.toString() + " " + activity.getString(R.string.kg)
+                            firstNumberPicker.value.toString() + "." + secondNumberPicker.value.toString() + " " + activity.getString(
+                                (R.string.kg)
+                            ).toUpperCase(Locale.ROOT)
                     }
-                    d.setNegativeButton(activity.getString(R.string.cancel_cap)) { _, _ ->
+                    d.setNegativeButton(
+                        activity.getString((R.string.cancel)).toUpperCase(Locale.ROOT)
+                    ) { _, _ ->
                         aboutMeValue.setCompoundDrawablesWithIntrinsicBounds(
                             0, 0, 0, 0
                         )
@@ -110,7 +116,7 @@ class AboutMeAdapter(private val dataSet: List<String>, private val activity: Ac
                     aboutMeValue.setCompoundDrawablesWithIntrinsicBounds(
                         0, 0, 0, 0
                     )
-                    d.setTitle(activity.getString(R.string.desired_weight_cap))
+                    d.setTitle(activity.getString((R.string.desired_weight)).toUpperCase(Locale.ROOT))
                     val dialogView: View =
                         inflater.inflate(R.layout.about_me_weight_dialog, null)
                     d.setView(dialogView)
@@ -126,12 +132,14 @@ class AboutMeAdapter(private val dataSet: List<String>, private val activity: Ac
                     secondNumberPicker.minValue = MIN0
                     secondNumberPicker.setOnValueChangedListener { _, _, _ ->
                     }
-                    d.setPositiveButton(activity.getString(R.string.save_cap))
+                    d.setPositiveButton(activity.getString((R.string.save)).toUpperCase(Locale.ROOT))
                     { _, _ ->
                         aboutMeValue.text =
-                            firstNumberPicker.value.toString() + "." + secondNumberPicker.value.toString() + " " + activity.getString(R.string.kg)
+                            firstNumberPicker.value.toString() + "." + secondNumberPicker.value.toString() + " " + activity.getString((R.string.kg)).toUpperCase(
+                                Locale.ROOT
+                            )
                     }
-                    d.setNegativeButton(activity.getString(R.string.cancel_cap)) { _, _ ->
+                    d.setNegativeButton(activity.getString((R.string.cancel)).toUpperCase(Locale.ROOT)) { _, _ ->
                         aboutMeValue.setCompoundDrawablesWithIntrinsicBounds(
                             0, 0, 0, 0
                         )
@@ -144,7 +152,7 @@ class AboutMeAdapter(private val dataSet: List<String>, private val activity: Ac
                     aboutMeValue.setCompoundDrawablesWithIntrinsicBounds(
                         0, 0, 0, 0
                     )
-                    d.setTitle(activity.getString(R.string.birthday_cap))
+                    d.setTitle(activity.getString((R.string.birthday)).toUpperCase(Locale.ROOT))
                     val dialogView: View =
                         inflater.inflate(R.layout.about_me_date_dialog, null)
                     d.setView(dialogView)
@@ -158,9 +166,9 @@ class AboutMeAdapter(private val dataSet: List<String>, private val activity: Ac
                         val month = month + 1
                         aboutMeValue.text = "$day/$month/$year"
                     }
-                    d.setPositiveButton(activity.getString(R.string.save_cap)) { _, _ ->
+                    d.setPositiveButton(activity.getString((R.string.save)).toUpperCase(Locale.ROOT)) { _, _ ->
                     }
-                    d.setNegativeButton(activity.getString(R.string.cancel_cap)) { _, _ ->
+                    d.setNegativeButton(activity.getString((R.string.cancel)).toUpperCase(Locale.ROOT)) { _, _ ->
                         aboutMeValue.setCompoundDrawablesWithIntrinsicBounds(
                             0, 0, 0, 0
                         )
@@ -173,7 +181,7 @@ class AboutMeAdapter(private val dataSet: List<String>, private val activity: Ac
                     aboutMeValue.setCompoundDrawablesWithIntrinsicBounds(
                         0, 0, 0, 0
                     )
-                    d.setTitle(activity.getString(R.string.gender_cap))
+                    d.setTitle(activity.getString((R.string.gender)).toUpperCase(Locale.ROOT))
                     var selectedItemIndex = 0
                     val gender = arrayOf(activity.getString(R.string.female), activity.getString(R.string.male))
                     var selectedGender = gender[selectedItemIndex]
@@ -184,10 +192,10 @@ class AboutMeAdapter(private val dataSet: List<String>, private val activity: Ac
                             selectedItemIndex = which
                             selectedGender = gender[which]
                         }
-                        .setPositiveButton(activity.getString(R.string.save_cap)) { _, _ ->
+                        .setPositiveButton(activity.getString((R.string.save)).toUpperCase(Locale.ROOT)) { _, _ ->
                             aboutMeValue.text = selectedGender
                         }
-                        .setNegativeButton(activity.getString(R.string.cancel_cap)) { _, _ ->
+                        .setNegativeButton(activity.getString((R.string.cancel)).toUpperCase(Locale.ROOT)) { _, _ ->
                             aboutMeValue.setCompoundDrawablesWithIntrinsicBounds(
                                 0, 0, 0, 0
                             )

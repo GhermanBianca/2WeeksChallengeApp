@@ -26,23 +26,18 @@
     <string name="settings">Setări</string>
     <string name="point">.</string>
     <string name="slash">/</string>
-    <string name="cm"> CM</string>
-    <string name="kg"> KG</string>
+    <string name="cm"> cm</string>
+    <string name="kg"> kg</string>
 
     <string name="height">Înălțime</string>
-    <string name="height_cap">ÎNĂLȚIME</string>
     <string name="weight">Greutate</string>
-    <string name="weight_cap">GREUTATE</string>
     <string name="desired_weight">Greutate dorită</string>
-    <string name="desired_weight_cap">GREUTATE DORITĂ</string>
     <string name="birthday">Data nașterii</string>
-    <string name="birthday_cap">DATA NAȘTERII</string>
     <string name="gender">Gen</string>
-    <string name="gender_cap">GEN</string>
 
-    <string name="save_cap">SALVARE</string>
-    <string name="cancel_cap">ANULARE</string>
-    <string name="update">MODIFICARE</string>
+    <string name="save">Salvare</string>
+    <string name="cancel">Anulare</string>
+    <string name="update">Modificare</string>
 
     <string name="female">Feminin</string>
     <string name="male">Masculin</string>
@@ -54,7 +49,7 @@
     <string name="various">Diverse</string>
     <string name="sport">Sport</string>
     <string name="image">imagine</string>
-    <string name="user_image">FOTOGRAFIA UTILIZATORULUI</string>
+    <string name="user_image">Fotografia utilizatorului</string>
     <string name="confirm_password">Confirmare Parolă</string>
 
     <string name="profile_image">profile_image</string>
@@ -81,7 +76,7 @@
     <string name="day_fourteen">Ziua 14</string>
     <string name="one">1</string>
 
-    <string name="text_advice_name">NUTRIȚIE</string>
+    <string name="text_advice_name">Nutriție</string>
 
     <string name="breakfast_name">Mic dejun</string>
     <string name="snack_name">Gustare</string>
@@ -501,13 +496,15 @@
     <string name="various_advice_content_seven">Dacă te simți fără energie încearcă să consumi: magneziu, spirulină, colagen sau vitamina C + Zinc."</string>
 
     <string name="test">Ziua 1 - Fesieri și Abdomen</string>
-    <string name="all_challenges">TOATE PROVOCĂRILE</string>
+    <string name="all_challenges">Toate provocările</string>
 
     <string name="language_option">Opțiunea limbii</string>
-    <string name="general_settings">SETĂRI GENERALE</string>
+    <string name="general_settings">Setări generale</string>
     <string name="selected_language">Implicit</string>
     <string name="romanian" translatable="false">Română</string>
     <string name="english" >English</string>
+    <string name="choose_language">Selectează limba</string>
+
 
 
 </resources>

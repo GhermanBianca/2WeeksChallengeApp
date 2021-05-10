@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Workout Home</string>
     <string name="register">Sign up to get started!</string>
-    <string name="create_profile">Registration</string>
+    <string name="create_profile">SIGN UP</string>
     <string name="create_prof">Create</string>
     <string name="sign_in">Log in</string>
     <string name="please_wait">Please wait&#8230;</string>
@@ -26,23 +26,18 @@
     <string name="settings">Settings</string>
     <string name="point">.</string>
     <string name="slash">/</string>
-    <string name="cm"> CM</string>
-    <string name="kg"> KG</string>
+    <string name="cm"> cm</string>
+    <string name="kg"> kg</string>
 
     <string name="height">Height</string>
-    <string name="height_cap">HEIGHT</string>
     <string name="weight">Weight</string>
-    <string name="weight_cap">WEIGHT</string>
     <string name="desired_weight">Desired Weight</string>
-    <string name="desired_weight_cap">DESIRED WEIGHT</string>
     <string name="birthday">Birthday</string>
-    <string name="birthday_cap">BIRTHDAY</string>
     <string name="gender">Gender</string>
-    <string name="gender_cap">GENDER</string>
 
-    <string name="save_cap">SAVE</string>
-    <string name="cancel_cap">CANCEL</string>
-    <string name="update">UPDATE</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+    <string name="update">Update</string>
 
 
     <string name="female">Female</string>
@@ -55,7 +50,7 @@
     <string name="various">Various</string>
     <string name="sport">Sport</string>
     <string name="image">image</string>
-    <string name="user_image">USER_IMAGE</string>
+    <string name="user_image">User Image</string>
     <string name="confirm_password">Confirm Password</string>
 
     <string name="profile_image">profile_image</string>
@@ -83,7 +78,7 @@
     <string name="one">1</string>
 
 
-    <string name="text_advice_name">NUTRITIONS</string>
+    <string name="text_advice_name">Nutrition</string>
 
     <string name="breakfast_name">Breakfast</string>
     <string name="snack_name">Snack</string>
@@ -505,11 +500,13 @@
     <string name="various_advice_content_seven">If you feel without energy, try to consume: magnesium, spirulina, collagen or vitamin C + Zinc.</string>
 
     <string name="test">Buttocks and abdomen </string>
-    <string name="all_challenges">ALL CHALLENGES</string>
+    <string name="all_challenges">All challenges</string>
 
     <string name="language_option">Language option</string>
     <string name="general_settings">General Settings</string>
     <string name="selected_language">Default</string>
     <string name="english" >English</string>
+    <string name="choose_language">Choose Language</string>
+
 
 </resources>

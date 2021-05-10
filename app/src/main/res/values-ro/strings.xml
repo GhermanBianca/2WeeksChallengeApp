@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
     <string name="app_name">Fitness Acasă</string>
     <string name="register">Înregistrează-te pentru a începe!</string>
     <string name="create_profile">Înregistrare</string>
@@ -26,23 +26,18 @@
     <string name="settings">Setări</string>
     <string name="point">.</string>
     <string name="slash">/</string>
-    <string name="cm"> CM</string>
-    <string name="kg"> KG</string>
+    <string name="cm"> cm</string>
+    <string name="kg"> kg</string>
 
     <string name="height">Înălțime</string>
-    <string name="height_cap">ÎNĂLȚIME</string>
     <string name="weight">Greutate</string>
-    <string name="weight_cap">GREUTATE</string>
     <string name="desired_weight">Greutate dorită</string>
-    <string name="desired_weight_cap">GREUTATE DORITĂ</string>
     <string name="birthday">Data nașterii</string>
-    <string name="birthday_cap">DATA NAȘTERII</string>
     <string name="gender">Gen</string>
-    <string name="gender_cap">GEN</string>
 
-    <string name="save_cap">SALVARE</string>
-    <string name="cancel_cap">ANULARE</string>
-    <string name="update">MODIFICARE</string>
+    <string name="save">SALVARE</string>
+    <string name="cancel">ANULARE</string>
+    <string name="update">Modificare</string>
 
 
     <string name="female">Feminin</string>
@@ -83,7 +78,7 @@
     <string name="one">1</string>
 
 
-    <string name="text_advice_name">NUTRIȚIE</string>
+    <string name="text_advice_name">Nutriție</string>
 
     <string name="breakfast_name">Mic dejun</string>
     <string name="snack_name">Gustare</string>
@@ -506,16 +501,13 @@
 
 
     <string name="test">Ziua 1 - Fesieri și Abdomen</string>
-    <string name="all_challenges">TOATE PROVOCĂRILE</string>
+    <string name="all_challenges">Toate provocările</string>
 
     <string name="language_option">Opțiunea limbii</string>
-    <string name="general_settings">SETĂRI GENERALE</string>
+    <string name="general_settings">Setări generale</string>
     <string name="selected_language">Implicit</string>
     <string name="romanian">Română</string>
     <string name="english">English</string>
 
-
-
-
-
+    <string name="choose_language">Alege limba</string>
 </resources>

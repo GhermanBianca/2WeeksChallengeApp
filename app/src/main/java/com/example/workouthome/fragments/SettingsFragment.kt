@@ -65,7 +65,7 @@ class SettingsFragment : Fragment(R.layout.fragment_settings) {
     private fun showChangeLanguage() {
 
         val mBuilder = AlertDialog.Builder(requireContext())
-        mBuilder.setTitle("Choose Language")
+        mBuilder.setTitle(resources.getString(R.string.choose_language))
         mBuilder.setSingleChoiceItems(listLanguages, -1) { dialog, which ->
 
             insertIntoSharedPrefs(which)
