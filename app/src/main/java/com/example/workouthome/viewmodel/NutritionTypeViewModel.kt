@@ -16,7 +16,6 @@ class NutritionTypeViewModel(private val fragmentActivity: FragmentActivity?) {
         var dinner = ""
 
         val levelCaloriesOneList: ArrayList<DayNutritionItem> = ArrayList()
-
         when (dayNumber) {
             1 -> when (type) {
                 "calories_level_1" -> {
@@ -80,7 +79,6 @@ class NutritionTypeViewModel(private val fragmentActivity: FragmentActivity?) {
                     }
                 }
             }
-
             3 -> {
                 when (type) {
                     "calories_level_1" -> {
@@ -113,7 +111,6 @@ class NutritionTypeViewModel(private val fragmentActivity: FragmentActivity?) {
                     }
                 }
             }
-
             4 -> {
                 when (type) {
                     "calories_level_1" -> {
