@@ -106,7 +106,7 @@
     <string name="breakfast_dayfour_level_one">Omletă din 2 albușuri și 1 gălbenuș + roșii cherry 200g + 1 felie de pâine integrală(25g)</string>
     <string name="snack_dayfour_level_one_first">Rondele din făină integrală 50g cu somon 30g</string>
     <string name="snack_dayfour_level_one_second">Iaurt grecesc 10% 150g</string>
-    <string name="lunch_dayfour_level_one">Piept de pui 175g + brocolli 350g</string>
+    <string name="lunch_dayfour_level_one">Piept de pui 175g + broccoli 350g</string>
     <string name="dinner_dayfour_level_one">Piept de pui 50g + năut fiert 150g + roșii 150g + salată verde 50g</string>
 
     <string name="breakfast_dayfive_level_one">Fulgi de ovăz 80g + lapte 3,5% 200ml + 1 linguriță cacao</string>
@@ -124,7 +124,7 @@
     <string name="breakfast_dayseven_level_one">Fulgi de ovăz 50g + lapte 3,5% 150ml + puțină scorțișoară</string>
     <string name="snack_dayseven_level_one_first">Rondele din faină integrală 50g cu somon 30g</string>
     <string name="snack_dayseven_level_one_second">1 măr Golden mic</string>
-    <string name="lunch_dayseven_level_one">Păstrăv la cuptor 175g + brocolli fiert 250g</string>
+    <string name="lunch_dayseven_level_one">Păstrăv la cuptor 175g + broccoli fiert 250g</string>
     <string name="dinner_dayseven_level_one">Cottage cheese 2,2% grăsime 200g + roșii 200g</string>
 
     <string name="breakfast_dayeight_level_one">Brânză de vaci slabă Covalact 6% 150g + roșii cherry 150g + 1 felie de pâine integrală 25g</string>
@@ -142,7 +142,7 @@
     <string name="breakfast_dayten_level_one">Fulgi de ovăz 50g + lapte 1,5% 200ml + stafide brune 30g</string>
     <string name="snack_dayten_level_one_first">1 măr + semințe de dovleac 20g</string>
     <string name="snack_dayten_level_one_second">50g migdale, nuci sau fulgi ovăz cu iaurt</string>
-    <string name="lunch_dayten_level_one">Somon 150g + mix de legume congelate(fără brocolli sau mazăre, fasole) 200g(cântărite după fierbere sau gătire la aburi) + ulei de măsline 10g</string>
+    <string name="lunch_dayten_level_one">Somon 150g + mix de legume congelate(fără broccoli sau mazăre, fasole) 200g(cântărite după fierbere sau gătire la aburi) + ulei de măsline 10g</string>
     <string name="dinner_dayten_level_one">Piept de pui 75g + salată verde 125g + roșii cherry 125g + ardei roșu gras 100g + ulei de măsline 10ml</string>
 
     <string name="breakfast_dayeleven_level_one"><![CDATA[&#189; avocado + 1 felie de pâine prăjită(aproximativ 25g) + ardei/roșii 100g]]></string>
@@ -222,7 +222,7 @@
     <string name="snack_daynine_level_two_first">1 iaurt grecesc</string>
     <string name="snack_daynine_level_two_second">Struguri 100g </string>
     <string name="lunch_daynine_level_two">Salată 100g + 1 linguriță de ulei și una de oțet + soufle de dovlecei 100g + 1 felie brânză telemea + 1 felie de pâine neagră</string>
-    <string name="dinner_daynine_level_two">Salată de varză 150g + 1 linguriță de ulei și 1 de oțet + homar 120g + 1 lingură maioneză slabă + garnitură de brocolli natur 150g + 1 felie pâine neagră
+    <string name="dinner_daynine_level_two">Salată de varză 150g + 1 linguriță de ulei și 1 de oțet + homar 120g + 1 lingură maioneză slabă + garnitură de broccoli natur 150g + 1 felie pâine neagră
         + 1 iaurt natur mic</string>
 
     <string name="breakfast_dayten_level_two">1 ou fiert + avocado 100g + roșii cherry 150g + 1 felie de pâine integrală</string>
@@ -236,7 +236,7 @@
     <string name="snack_dayeleven_level_two_first">3 linguri de hummus + castravete, morcovi și țelină 100g</string>
     <string name="snack_dayeleven_level_two_second">1 iaurt grecesc</string>
     <string name="lunch_dayeleven_level_two">Supă de pui cu tăiței + legume cu frunze verzi 200g care se amestecă cu somon la grătar 85g + 1 felie de pâine integrală</string>
-    <string name="dinner_dayeleven_level_two">Friptură la cuptor 115g + 2 cartofi roșii la cuptor + 1 lingură de ulei de măsline + broccolli 50g</string>
+    <string name="dinner_dayeleven_level_two">Friptură la cuptor 115g + 2 cartofi roșii la cuptor + 1 lingură de ulei de măsline + broccoli 50g</string>
 
     <string name="breakfast_daytwelve_level_two">Fulgi de ovăz 60g + lapte 200ml + o banană</string>
     <string name="snack_daytwelve_level_two_first">Ciocolată neagră 30g</string>
@@ -248,7 +248,7 @@
     <string name="snack_daythirteen_level_two_first">Căpșuni 250g</string>
     <string name="snack_daythirteen_level_two_second">2 kiwi</string>
     <string name="lunch_daythirteen_level_two">Piept de pui 175g + sparanghel 300g</string>
-    <string name="dinner_daythirteen_level_two">Legume fierte cu carne: piept de pui 50g + orz 45g + brocolli 100g + conopidă 200g + ceapă 50g + ardei roșu 100g + ceai din fructe fără zahăr</string>
+    <string name="dinner_daythirteen_level_two">Legume fierte cu carne: piept de pui 50g + orz 45g + broccoli 100g + conopidă 200g + ceapă 50g + ardei roșu 100g + ceai din fructe fără zahăr</string>
 
     <string name="breakfast_dayfourteen_level_two">Avocado 125g + roșii cherry 200g + 1 felie de pâine integrală</string>
     <string name="snack_dayfourteen_level_two_first">Iaurt grecesc 10% grăsime 100g</string>
@@ -285,7 +285,7 @@
     <string name="breakfast_dayfive_level_three">Fulgi de ovăz 150g + lapte 3,5% 250ml + stafide brune 15g</string>
     <string name="snack_dayfive_level_three_first">Căpșuni 300g</string>
     <string name="snack_dayfive_level_three_second">Alune crude 50g</string>
-    <string name="lunch_dayfive_level_three">Piept de pui la cuptor 200g + brocolli 350g</string>
+    <string name="lunch_dayfive_level_three">Piept de pui la cuptor 200g + broccoli 350g</string>
     <string name="dinner_dayfive_level_three">Ton în suc propriu 150g + fasole roșie 250g + roșii 200g + ceapă(de gust)</string>
 
     <string name="breakfast_daysix_level_three">Fulgi de ovăz 150g + lapte 3,5% 250ml + stafide brune 15g + puțină scorțișoară</string>
@@ -300,7 +300,7 @@
     <string name="lunch_dayseven_level_three">Piept de pui 225g + orez brun fiert 300g</string>
     <string name="dinner_dayseven_level_three">Brânză de vacă 200g + tartine din făină integrală 75g + roșii cherry 200g</string>
 
-    <string name="breakfast_dayeight_level_three">Omletă cu legume: 2 ouă + spanac 20g + ciuperci 24g + brocolli 23g + cartofi dulci 205g + ulei de măsline 15ml</string>
+    <string name="breakfast_dayeight_level_three">Omletă cu legume: 2 ouă + spanac 20g + ciuperci 24g + broccoli 23g + cartofi dulci 205g + ulei de măsline 15ml</string>
     <string name="snack_dayeight_level_three_first">1 măr mediu + unt de arahide 32g</string>
     <string name="snack_dayeight_level_three_second">Brânză Cheddar 56g + struguri 92g</string>
     <string name="lunch_dayeight_level_three">1 pâiniță de grâu integral + ton mediteranean 140g + ceapă roșie tăiată + țelină + un sfert de avocado + brânză feta mărunțită 9g</string>
@@ -310,7 +310,7 @@
     <string name="snack_daynine_level_three_first">Lapte neîndulcit 180g + spanac 20g + pulbere proteică 42g + afine 123g + semințe 14g</string>
     <string name="snack_daynine_level_three_second">Morcovi proaspeți și țelină + 2 linguri de hummus + 1 felie de pâine integrală</string>
     <string name="lunch_daynine_level_three">Jumătate de avocado + conservă de ton 140g + roșii cherry 75g + verdeață mixtă 100g</string>
-    <string name="dinner_daynine_level_three">Pui 140g + brocolli 176g + orez brun fiert 82g + usturoi proaspăt și ghimbir + sos de soia 15ml, după gust</string>
+    <string name="dinner_daynine_level_three">Pui 140g + broccoli 176g + orez brun fiert 82g + usturoi proaspăt și ghimbir + sos de soia 15ml, după gust</string>
 
     <string name="breakfast_dayten_level_three">Iaurt grecesc simplu 200g + afine proaspete 74g + căpșuni feliate 76g + granola 30g</string>
     <string name="snack_dayten_level_three_first">1 banană + unt de migdale 24g</string>
@@ -354,7 +354,7 @@
     <string name="breakfast_daytwo_vegetarian_level">Omletă din două albușuri și 1 ou întreg + roșii cherry 150g + 1 felie de pâine integrală</string>
     <string name="snack_daytwo_vegetarian_level_first">Cireșe 200g</string>
     <string name="snack_daytwo_vegetarian_level_second">1 măr Golden</string>
-    <string name="lunch_daytwo_vegetarian_level">Paste integrale 200g + legume sotate: ciuperci 100g + brocolli 100g + ardei 60g </string>
+    <string name="lunch_daytwo_vegetarian_level">Paste integrale 200g + legume sotate: ciuperci 100g + broccoli 100g + ardei 60g </string>
     <string name="dinner_daytwo_vegetarian_level">Iaurt grecesc 2% 150g + semințe de chia hidratate în prealabil 20g</string>
 
     <string name="breakfast_daythree_vegetarian_level">Fulgi de ovăz 60g + lapte 200ml + merișoare 10g</string>
